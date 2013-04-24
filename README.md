@@ -1,3 +1,6 @@
+*********************************************************
+Tau Labs CN Developers' fork.. use for learning and contribute to main branch/ Tau Labs中文开发者分支，用于学习目的以及尽可能的协助主干开发
+*********************************************************
 # Tau Labs
 
 A friendly fork of OpenPilot by some of the former OP developers.
